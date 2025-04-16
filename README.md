@@ -71,10 +71,10 @@ The project is organized into the following main parts:
 
 ## Usage
 1. **Run the Classification Model on Titanic Dataset:**
-   Open the `Classification_CW.ipynb` notebook and follow the instructions to predict passenger survival.
+   Open the `classification.ipynb` notebook and follow the instructions to predict passenger survival.
 
 2. **Run the Regression Model on California Housing Dataset:**
-   Open the `regression_CW.ipynb` notebook and follow the instructions to predict house values.
+   Open the `regression.ipynb` notebook and follow the instructions to predict house values.
 
 ## Contributing
 Feel free to fork the project and submit pull requests if you'd like to contribute to the codebase. Please open issues if you encounter bugs or have feature requests.
